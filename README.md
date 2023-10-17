@@ -3,8 +3,9 @@
 ## howto1
 
 Utilizamos wrappers de operadores aritméticos de pyton, en forma funcional:
-- de `+` y `-` : `suma()` y `resta()`
-- de `*` y `//` : `multiplica()` y `divide()`
+
+- de `+` y `-` : `suma()` y `resta()` 
+- de `*` y `//` : `multiplica()` y `divide()` 
 
 ## howto2
 
